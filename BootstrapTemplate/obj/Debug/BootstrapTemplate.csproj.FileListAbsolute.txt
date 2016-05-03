@@ -1,0 +1,6 @@
+C:\Users\StevenLL\Source\Repos\BootstrapTemplate\BootstrapTemplate\bin\BootstrapTemplate.dll.config
+C:\Users\StevenLL\Source\Repos\BootstrapTemplate\BootstrapTemplate\bin\BootstrapTemplate.dll
+C:\Users\StevenLL\Source\Repos\BootstrapTemplate\BootstrapTemplate\bin\BootstrapTemplate.pdb
+C:\Users\StevenLL\Source\Repos\BootstrapTemplate\BootstrapTemplate\obj\Debug\BootstrapTemplate.csprojResolveAssemblyReference.cache
+C:\Users\StevenLL\Source\Repos\BootstrapTemplate\BootstrapTemplate\obj\Debug\BootstrapTemplate.dll
+C:\Users\StevenLL\Source\Repos\BootstrapTemplate\BootstrapTemplate\obj\Debug\BootstrapTemplate.pdb
